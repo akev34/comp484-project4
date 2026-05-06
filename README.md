@@ -1,4 +1,4 @@
-# comp484-project4
+# Comp484-Project4
 # Timed Typing Test App
 
 A web-based typing speed test built with HTML, CSS, and vanilla JavaScript for COMP-484 Project 4.
