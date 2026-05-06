@@ -1,11 +1,9 @@
 # Comp484-Project4
 # Timed Typing Test App
+https://akev34.github.io/comp484-project4/
 
-A web-based typing speed test built with HTML, CSS, and vanilla JavaScript for COMP-484 Project 4.
+A web-based typing speed test built with HTML, CSS, and JavaScript for COMP-484 Project 4.
 
-## Live Demo
-
-[Add your GitHub Pages link here]
 
 ## What It Does
 
